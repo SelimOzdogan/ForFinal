@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ForFinal</string>
+    <string name="imgTxtContentDesc">Shool On Track Logo</string>
+    <string name="txtTitleLogin">Login</string>
+    <string name="txtLoginPassword">Password</string>
+    <string name="editTxtUserHint">User</string>
+    <string name="btnTxtSignIn">Sign In</string>
+    <string name="txtNoAccount">Don\'t have an account?</string>
+    <string name="txtLoginCreateAccount">Create Account</string>
+    <string name="button_ShiftSave">Save</string>
+    <string name="spinner_PeriodYearsPrompt">Select Year</string>
+
+
+
+    <string-array name="PeriodYears">
+        <item>2021</item>
+        <item>2020</item>
+        <item>All</item>
+    </string-array>
+</resources>
